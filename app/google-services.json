@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66617866788",
+    "project_id": "actualizar-5b2d4",
+    "storage_bucket": "actualizar-5b2d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66617866788:android:fc0e60bfee747fdb1436b1",
+        "android_client_info": {
+          "package_name": "com.example.actualizar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66617866788-4h62050ra9o1t0vt1gg4sq7qqqkeenat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV3tVoC5Myt8DjEOyhmNxNt37STgWgvAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66617866788-4h62050ra9o1t0vt1gg4sq7qqqkeenat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
